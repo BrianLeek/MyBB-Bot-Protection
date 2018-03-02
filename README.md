@@ -12,11 +12,14 @@ After submission of the registration form, it checks the submitted value. If it 
 If the value is not properly set (because the client did not parse the javascript) the user is redirected to the registration form with an error message.
 
 # How To Install:
-
 • Upload "inc/plugins/botprotection.php" to your plugins folder.
+
 • Upload "inc/languages/english/botprotection.lang.php" to your languages folder.
+
 • Upload "inc/languages/english/admin/forum_botprotection.lang.php" to your admin language folder.
+
 • Click "install" in the admin panel plugin section.
+
 
 
 Any person who is using a browser that does not evaluate javascript, will not be able to register.
